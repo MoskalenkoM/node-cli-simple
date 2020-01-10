@@ -2,7 +2,7 @@
 
 ## Console game guess the number from 1 to 10
 
-### You can change conditions for range numbers or addition some rules else, just chenge index.js file
+### You can change conditions for range numbers or addition some rules else, just change index.js file
 
 ---
 
