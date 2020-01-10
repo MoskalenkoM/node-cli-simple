@@ -1,0 +1,23 @@
+{
+  "name": "node-cli-simple",
+  "version": "1.0.0",
+  "scripts": {
+    "delLog": "rimraf game.log",
+    "game": "node index.js game.log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoskalenkoM/node-cli-simple.git"
+  },
+  "author": "Max Moskalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoskalenkoM/node-cli-simple/issues"
+  },
+  "homepage": "https://github.com/MoskalenkoM/node-cli-simple#readme",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "minimist": "^1.2.0",
+    "rimraf": "^3.0.0"
+  }
+}
