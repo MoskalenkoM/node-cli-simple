@@ -13,4 +13,7 @@
 * _run **npm run game** and watching in your console._
 
 **More information in a package.json file.**
+
+***
+
 **Enjoy =).**
